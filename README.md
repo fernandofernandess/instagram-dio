@@ -10,7 +10,7 @@
 </div>
 
 ## 📚Sobre
-Repositorio dedicado a produção do projeto recriando a pagina inicial do instagram contido no Bootcamp Santader FullStack Developer.
+Repositorio dedicado a produção do projeto recriando a pagina inicial do instagram contido no Bootcamp Santander FullStack Developer.
 
 O projeto aborda o conceito de CSS Flexbox e Responsividade.
 
